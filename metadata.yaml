@@ -1,5 +1,8 @@
 _repo: Monsieur-Lecoq---Volume2--13-L-honneur-du-nom_8719
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8719#Monsieur-Lecoq---Volume2--13-L-honneur-du-nom
 gutenberg_bookshelf:
 - Detective Fiction
 - FR Littérature
